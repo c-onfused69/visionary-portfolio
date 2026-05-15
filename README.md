@@ -4,7 +4,7 @@ Bold, futuristic portfolio built with React + Vite. Features animated pages, gla
 
 ## Live Preview
 
-- Add your deployed URL here.
+https://c-onfused69.github.io/visionary-portfolio/
 
 ## Features
 
